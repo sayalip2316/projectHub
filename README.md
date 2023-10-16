@@ -5,6 +5,8 @@ TaskHub is a project management application built with Angular. It helps you org
 ## Features
 
 - **Dashboard:** View a list of projects, their details, and assigned team members.
+- ![image](https://github.com/sayalip2316/projectHub/assets/119415321/3ae94eaf-1366-4c5a-9754-02ea9f345938)
+
 - **Create Project:** Easily create a new project with essential details.
 - **Create Task:** Add tasks to your projects with descriptions, due dates, priorities, and status.
 - **Manage Team:** Organize your project team, assign members, and track their progress.
